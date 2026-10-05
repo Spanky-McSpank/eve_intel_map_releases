@@ -7,6 +7,7 @@ This repository holds the beta downloads only.
 ## Install
 
 1. Download the `.exe` from the [latest release](https://github.com/Spanky-McSpank/eve_intel_map_releases/releases).
+   Download the .exe under Assets. Ignore 'Source code', which has no program in it.
 2. Run it. When asked, enter your intel channel name and your EVE chat log folder.
    The default log folder is `%USERPROFILE%\Documents\EVE\logs\Chatlogs`.
    More channels can be added later in the app's Settings.
