@@ -32,8 +32,11 @@ Get-FileHash .\EVEIntelMap_Setup_v1.0.3_900db4d.exe -Algorithm SHA256
 
 ## Early access: get a license
 
-1. Send **1,000,000,101 ISK** to the character **Relance Haklar**, as a normal ISK transfer.
-2. Put `license key` in the **Reason** field.
+Send **exactly 1,000,000,101 ISK** to the character **Relance Haklar**, as a normal ISK transfer.
+Nothing needs to go in the Reason field.
+
+The exact amount is how your payment is recognised. Any other amount isn't matched automatically,
+so if you sent a different amount, send an in-game EVE mail to Relance Haklar.
 
 The key is sent by in-game EVE mail after manual approval. It is not instant.
 It can take a while for the payment to be picked up, so please allow time before asking.
