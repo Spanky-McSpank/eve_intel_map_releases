@@ -13,6 +13,9 @@ This repository holds the beta downloads only.
    More channels can be added later in the app's Settings.
 3. On first launch, the setup wizard asks for a license key, signs you in with EVE SSO, and downloads the EVE static data (SDE, about 600 MB).
 
+Some security software scans a new program the first time it runs and can block its internet access for a few minutes.
+If activation says it can't reach the license server, wait a few minutes and try again.
+
 Windows 10 or 11, 64-bit.
 
 ## Windows SmartScreen
@@ -24,12 +27,12 @@ To check that your download is intact, compare its SHA-256 with the table below.
 In PowerShell:
 
 ```powershell
-Get-FileHash .\EVEIntelMap_Setup_v1.0.3_900db4d.exe -Algorithm SHA256
+Get-FileHash .\EVEIntelMap_Setup_v1.0.3_34deef5.exe -Algorithm SHA256
 ```
 
 | Release | File | SHA-256 |
 |---|---|---|
-| v1.0.3 beta 1 | `EVEIntelMap_Setup_v1.0.3_900db4d.exe` | `fb3c25b06a468831a019921279afba48f9660266a61f5899d29ea9f07974e476` |
+| v1.0.3 beta 2 | `EVEIntelMap_Setup_v1.0.3_34deef5.exe` | `34ba9436424be111884a7e6361993bdfcb4b0422f478e61570cd70d2eded8bbe` |
 
 ## Early access: get a license
 
