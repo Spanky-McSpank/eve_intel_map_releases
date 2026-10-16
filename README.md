@@ -6,7 +6,7 @@ This repository holds the beta downloads only.
 
 ## Install
 
-1. Download the `.exe` from the [latest release](https://github.com/Spanky-McSpank/eve_intel_map_releases/releases).
+1. Download the `.exe` from the [current release (beta 2)](https://github.com/Spanky-McSpank/eve_intel_map_releases/releases/tag/v1.0.3-beta2).
    Download the .exe under Assets. Ignore 'Source code', which has no program in it.
 2. Run it. When asked, enter your intel channel name and your EVE chat log folder.
    The default log folder is `%USERPROFILE%\Documents\EVE\logs\Chatlogs`.
@@ -33,6 +33,9 @@ Get-FileHash .\EVEIntelMap_Setup_v1.0.3_34deef5.exe -Algorithm SHA256
 | Release | File | SHA-256 |
 |---|---|---|
 | v1.0.3 beta 2 | `EVEIntelMap_Setup_v1.0.3_34deef5.exe` | `34ba9436424be111884a7e6361993bdfcb4b0422f478e61570cd70d2eded8bbe` |
+| v1.0.3 beta 3 (tester build) | `EVEIntelMap_Setup_v1.0.3_c4e982e.exe` | `22234dcefde508b99db7e248ab3e1c565f2b3d2059324d5d6e4c878565ddfe64` |
+
+Beta 3 is a tester build. Beta 2 remains the current download.
 
 ## Early access: get a license
 
