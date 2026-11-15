@@ -2,11 +2,11 @@
 
 A lightweight 2D intel map for EVE Online, with threat coloring from chat-log intel channels.
 
-This repository holds the beta downloads only.
+This repository holds the downloads only.
 
 ## Install
 
-1. Download the `.exe` from the [current release (beta 2)](https://github.com/Spanky-McSpank/eve_intel_map_releases/releases/tag/v1.0.3-beta2).
+1. Download the `.exe` from the [latest release](https://github.com/Spanky-McSpank/eve_intel_map_releases/releases/latest).
    Download the .exe under Assets. Ignore 'Source code', which has no program in it.
 2. Run it. When asked, enter your intel channel name and your EVE chat log folder.
    The default log folder is `%USERPROFILE%\Documents\EVE\logs\Chatlogs`.
@@ -27,15 +27,14 @@ To check that your download is intact, compare its SHA-256 with the table below.
 In PowerShell:
 
 ```powershell
-Get-FileHash .\EVEIntelMap_Setup_v1.0.3_34deef5.exe -Algorithm SHA256
+Get-FileHash .\EVEIntelMap_Setup_v1.1.0_5d893b7.exe -Algorithm SHA256
 ```
 
 | Release | File | SHA-256 |
 |---|---|---|
-| v1.0.3 beta 2 | `EVEIntelMap_Setup_v1.0.3_34deef5.exe` | `34ba9436424be111884a7e6361993bdfcb4b0422f478e61570cd70d2eded8bbe` |
-| v1.0.3 beta 3 (tester build) | `EVEIntelMap_Setup_v1.0.3_c4e982e.exe` | `22234dcefde508b99db7e248ab3e1c565f2b3d2059324d5d6e4c878565ddfe64` |
+| v1.1.0 | `EVEIntelMap_Setup_v1.1.0_5d893b7.exe` | `e0f719da976a38dc1b17678354720e090f96138d8dabe2914e7d7b519bd04d3e` |
 
-Beta 3 is a tester build. Beta 2 remains the current download.
+Already installed? Run the new installer over your current version: your sign-in, license and settings are kept.
 
 ## Early access: get a license
 
