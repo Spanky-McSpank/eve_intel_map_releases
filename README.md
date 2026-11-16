@@ -44,8 +44,9 @@ Nothing needs to go in the Reason field.
 The exact amount is how your payment is recognised. Any other amount isn't matched automatically,
 so if you sent a different amount, send an in-game EVE mail to Relance Haklar.
 
-The key is sent by in-game EVE mail after manual approval. It is not instant.
-It can take a while for the payment to be picked up, so please allow time before asking.
+Your license key is sent automatically by in-game EVE mail to the character that paid, as soon as the payment is picked up. It is not instant.
+EVE's wallet data can lag, so it can take up to about an hour (occasionally longer) for the payment to be picked up. Please allow time before asking.
+If your key hasn't arrived after a few hours, send an in-game EVE mail to Relance Haklar.
 
 The license is perpetual, per install (one key activates one PC), with no warranty.
 This is an early-access release.
