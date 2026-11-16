@@ -27,12 +27,12 @@ To check that your download is intact, compare its SHA-256 with the table below.
 In PowerShell:
 
 ```powershell
-Get-FileHash .\EVEIntelMap_Setup_v1.1.0_5d893b7.exe -Algorithm SHA256
+Get-FileHash .\EVEIntelMap_Setup_v1.1.1_e53fffc.exe -Algorithm SHA256
 ```
 
 | Release | File | SHA-256 |
 |---|---|---|
-| v1.1.0 | `EVEIntelMap_Setup_v1.1.0_5d893b7.exe` | `e0f719da976a38dc1b17678354720e090f96138d8dabe2914e7d7b519bd04d3e` |
+| v1.1.1 | `EVEIntelMap_Setup_v1.1.1_e53fffc.exe` | `9fe544e19a5e01ae054ab7d958b67a091e791e5896de1324cd114d726a64a5d4` |
 
 Already installed? Run the new installer over your current version: your sign-in, license and settings are kept.
 
